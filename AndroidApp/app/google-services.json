@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1074597993073",
+    "firebase_url": "https://cobaiot-30fb6-default-rtdb.firebaseio.com",
+    "project_id": "cobaiot-30fb6",
+    "storage_bucket": "cobaiot-30fb6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074597993073:android:ab07ce4a470ec91f59d9d0",
+        "android_client_info": {
+          "package_name": "com.example.iotapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1074597993073-tggs4tpe8ko2pucr200eugcu5ghmb9dp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.iotapp",
+            "certificate_hash": "ba0047ad1ec25760408492216ada6f529f1a5cc8"
+          }
+        },
+        {
+          "client_id": "1074597993073-vgiaq5raa21bs73879thhn4aac0m9sfn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAU44TDlvvdib6575SazC64Jxk5jkR3nB8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1074597993073-vgiaq5raa21bs73879thhn4aac0m9sfn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
